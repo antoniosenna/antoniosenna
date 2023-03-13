@@ -20,7 +20,7 @@
   
   <a href="https://www.instagram.com/antoniosenna_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/antonio-sena-7a096b269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://twitter.com/antoniosenna_/" target="blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=" target="_blank"></a>
+ <a href="https://twitter.com/antoniosenna_/" target="blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/antoniosenna/antoniosenna/blob/output/github-contribution-grid-snake.svg)
 
